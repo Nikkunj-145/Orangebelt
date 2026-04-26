@@ -1,0 +1,16 @@
+node_modules
+dist
+target
+.env
+.env.local
+*.log
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.tsbuildinfo
+vite.config.d.ts
+vite.config.js
+vite.config.js.map
+Cargo.lock
+**/target/

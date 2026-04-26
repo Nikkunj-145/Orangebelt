@@ -1,0 +1,6 @@
+{
+  "network": "testnet",
+  "contractId": "CDIT3XHXLYZPPM5YBVOPFX3RGQBLBIYQYH4BXFOD5I2YZPE2ZRPWTWEL",
+  "wasmHash": "96ff376dec883338d96a5eaccebbf3c782725d4e372b113adc5c2d911acb4bc7",
+  "explorer": "https://stellar.expert/explorer/testnet/contract/CDIT3XHXLYZPPM5YBVOPFX3RGQBLBIYQYH4BXFOD5I2YZPE2ZRPWTWEL"
+}
